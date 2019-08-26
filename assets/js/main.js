@@ -42,7 +42,10 @@ function openmodal() {
         $('#myInput').trigger('focus')
       })
 }
+<<<<<<< HEAD
 
 function Delete(id) {
     
 }
+=======
+>>>>>>> 0220c305b2a50270db5a1cfd2900ae3580682e24

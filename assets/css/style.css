@@ -319,10 +319,13 @@ footer{
     background-color: rgb(5, 145, 238);
     width: 100%;
     height: 40px;
+<<<<<<< HEAD
 }
 
 .generatorcontainer {
     position: relative;
     left: 40px;
     top: 150px;
+=======
+>>>>>>> 0220c305b2a50270db5a1cfd2900ae3580682e24
 }

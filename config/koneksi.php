@@ -1,6 +1,11 @@
 <?php 
+<<<<<<< HEAD
   
     $server = "localhost";
+=======
+    session_start();
+    $server = "Localhost";
+>>>>>>> 0220c305b2a50270db5a1cfd2900ae3580682e24
     $username ="root";
     $password ="";
     $database="MoneyManagement";

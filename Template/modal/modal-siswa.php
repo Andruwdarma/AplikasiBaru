@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div class="modal fade" id="modalinput" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+=======
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+>>>>>>> 0220c305b2a50270db5a1cfd2900ae3580682e24
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -8,6 +12,7 @@
         </button>
       </div>
       <div class="modal-body">
+<<<<<<< HEAD
       <form action="MoneyManagement1/Backend/Siswa.php" method="post">
             <table>
                 <tr>
@@ -46,6 +51,9 @@
                 </tr>
             </table>
             </form>
+=======
+        ...
+>>>>>>> 0220c305b2a50270db5a1cfd2900ae3580682e24
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
